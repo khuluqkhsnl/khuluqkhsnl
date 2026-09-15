@@ -1,16 +1,39 @@
-## Hi there 👋
+┌──────────────────────────────────────────────────────────────┐
 
-<!--
-**khuluqkhsnl/khuluqkhsnl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              Hi, I'm Khusnul Khuluq 👋
 
-Here are some ideas to get you started:
+        Software Engineer • Full-Stack Developer
+          Building useful things with code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Laravel • Next.js • React • PostgreSQL • Docker • Linux
+
+      [ Portfolio ]   [ LinkedIn ]   [ Email ]
+
+────────────────────────────────────────────────────────────────
+
+About Me
+
+💻 Software Engineer
+⚡ Interested in Web Apps, Automation & Digitalization
+🛠 Currently building Ngaturi and several internal systems
+🌱 Exploring AI-assisted software development
+
+────────────────────────────────────────────────────────────────
+
+Tech Stack
+
+[ TypeScript ] [ React ] [ Next.js ] [ Laravel ]
+[ PostgreSQL ] [ Docker ] [ Redis ] [ Linux ]
+
+────────────────────────────────────────────────────────────────
+
+Featured Projects
+-------------------------------------
+
+────────────────────────────────────────────────────────────────
+
+GitHub Activity
+
+         GitHub Stats      Most Used Languages
+
+────────────────────────────────────────────────────────────────
